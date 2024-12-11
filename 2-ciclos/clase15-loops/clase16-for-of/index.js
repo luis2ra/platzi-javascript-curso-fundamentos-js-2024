@@ -2,7 +2,7 @@
 
 for of arrays, strings [algo]
 
-for (varible of objeto) {
+for (variable of objeto) {
   código 
 }
 
