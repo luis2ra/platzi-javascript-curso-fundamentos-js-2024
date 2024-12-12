@@ -43,6 +43,8 @@ console.log(firstFruit)
 const numberOfFruits = fruits.length
 console.log(numberOfFruits)
 
+//******** Clase 28 **********//
+
 // Mutability
 
 fruits.push('watermelon')
