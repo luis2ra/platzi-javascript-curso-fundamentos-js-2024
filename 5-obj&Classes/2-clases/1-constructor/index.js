@@ -9,10 +9,7 @@ function Persona(nombre, apellido, edad) {
   this.apellido = apellido;
   this.edad = edad;
 }
-//
-//
-//
-//
+
 //
 //
 // Creamos una instancia de Persona
@@ -26,10 +23,7 @@ console.log(persona1);
 const persona2 = new Persona("Diego", "De Granda", 35);
 
 console.log(persona2);
-//
-//
-//
-//
+
 //
 //
 // Agregamos una propiedad a la clase Persona
@@ -44,9 +38,7 @@ persona1.nacionalidad = "Mexicana";
 
 console.log(persona1);
 console.log(persona2);
-//
-//
-//
+
 //
 //
 //
