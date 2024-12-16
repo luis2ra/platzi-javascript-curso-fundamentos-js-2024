@@ -64,5 +64,7 @@ form.addEventListener("submit", (event) => {
   const title = event.currentTarget.querySelector("#title").value;
   const content = event.currentTarget.querySelector("#content").value;
 
+  console.log(title, content); // checking...
+
   createPost(title, content);
 });
